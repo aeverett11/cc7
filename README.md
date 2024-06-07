@@ -1,1 +1,2 @@
-# cc7
+# cc7 Ahmad Everett U00618536
+Develop a basic customer feedback portal using HTML and JavaScript. The portal will allow users to submit their feedback, which includes their name, a rating, and comments. This feedback will then be displayed on the same page.
